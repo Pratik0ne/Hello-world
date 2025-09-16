@@ -1,0 +1,8 @@
+/node_modules
+/.next
+/out
+.env*
+/.turbo
+/playwright-report
+/test-results
+/coverage
